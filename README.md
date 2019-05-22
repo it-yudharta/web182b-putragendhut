@@ -1,2 +1,2 @@
-# init
-Initial Project
+# Project Pendaftaran Member GYM
+Tugas akhir

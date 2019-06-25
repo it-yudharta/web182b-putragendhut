@@ -25,3 +25,5 @@ Route::get('/member/store', 'MemberController@store');
 Route::get('/member/{id}/edit', 'MemberController@edit');
 Route::get('/member/{id}/update', 'MemberController@update');
 Route::get('/member/{id}/delete', 'MemberController@destroy');
+
+Route::get('/jadwal', 'JadwalController@index');

@@ -35,6 +35,9 @@
                     <ul class="navbar-nav mr-auto">
                     <li class="nav-item">
                                 <a class="nav-link" href="{{ url('/member') }}">Data Member</a>
+                                </li>
+                                <li class="nav-item">
+                                <a class="nav-link" href="{{ url('/jadwal') }}">Jadwal Latihan</a>
                             </li>
 
                     </ul>
